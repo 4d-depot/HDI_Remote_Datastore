@@ -1,0 +1,16 @@
+﻿{
+	"Default Folder": {
+		"groups": [
+			"Default Forms",
+			"Default Project Methods",
+			"Default Tables"
+		],
+		"methods": [
+			"viewTrace"
+		]
+	},
+	"Default Forms": {},
+	"Default Project Methods": {},
+	"Default Tables": {},
+	"trash": {}
+}
